@@ -1,1 +1,3 @@
-# EEG-E-R
+# EEG-Emotion-Recognition
+
+Documentation
