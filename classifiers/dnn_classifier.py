@@ -6,6 +6,7 @@ import torch.optim as optim
 import os
 
 
+
 class ClassifierNet(nn.Module):
     def __init__(self):
         self.input = nn.Linear(56, 150)
